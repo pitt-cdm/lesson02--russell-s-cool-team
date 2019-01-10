@@ -1,3 +1,4 @@
 - In Photoshop the different layers help to build a single image, but their combination allows for the modularity in creating different forms of image by allowing individual components to move around
 - In Premiere Pro, individual tracks are able to be manipulated in length, audio, and text to create a flexible form of video media 
--In video games, there are certain codes aimed towards people with certain interests who can navigate through different scenes in the games and choose aspects to customize their gaming experience. 
+- In video games, there are certain codes aimed towards people with certain interests who can navigate through different scenes in the games and choose aspects to customize their gaming experience. 
+- Molularity is define as "The degree to which a system's components may be separated and recombined, often with the benefit of flexibility and variety in use." 
