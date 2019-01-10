@@ -1,1 +1,1 @@
-
+- In Photoshop the different layers help to build a single image, but their combination allows for the modularity in creating different forms of image by allowing individual components to move around
